@@ -1,66 +1,66 @@
-      <div class="row">
-				<div class="col-xs-9 col-sm-8 col-md-7 col-lg-6" 
-					style="background-color: red;">
-					Bootstrap Layout Helper 
-          <!-- by Nathaniel Dragon -->
-				</div><!-- end col -->
-				<div class="col-xs-1" 
-					style="background-color: yellow;">
-					Size<!-- spacer -->
-				</div><!-- end col -->
-				<div class="col-xs-2 col-sm-3 col-md-4 col-lg-5" 
-					style="background-color: blue;">
-					&nbsp;<!-- spacer -->
-				</div><!-- end col -->
-			</div><!-- end row --> 
+<div class="row">
+    <div class="col-9 col-sm-8 col-md-7 col-lg-6" 
+         style="background-color: red;">
+        Bootstrap Layout Helper 
+        <!-- by Nathaniel Dragon -->
+    </div><!-- end col -->
+    <div class="col-1" 
+         style="background-color: yellow;">
+        Size<!-- spacer -->
+    </div><!-- end col -->
+    <div class="col-2 col-sm-3 col-md-4 col-lg-5" 
+         style="background-color: blue;">
+        &nbsp;<!-- spacer -->
+    </div><!-- end col -->
+</div><!-- end row --> 
 
-			<div class="row">
-				<div class="col-xs-1" 
-					style="background-color: black;">
-					&nbsp;<!-- spacer -->
-				</div><!-- end col -->
-				<div class="col-xs-1" 
-					style="background-color: white;">
-					&nbsp;<!-- spacer -->
-				</div><!-- end col -->
-				<div class="col-xs-1" 
-					style="background-color: black;">
-					&nbsp;<!-- spacer -->
-				</div><!-- end col -->
-				<div class="col-xs-1" 
-					style="background-color: white;">
-					&nbsp;<!-- spacer -->
-				</div><!-- end col -->
-				<div class="col-xs-1" 
-					style="background-color: black;">
-					&nbsp;<!-- spacer -->
-				</div><!-- end col -->
-				<div class="col-xs-1" 
-					style="background-color: white;">
-					&nbsp;<!-- spacer -->
-				</div><!-- end col -->
-				<div class="col-xs-1" 
-					style="background-color: black; color: white;">
-					lg<!-- spacer -->
-				</div><!-- end col -->
-				<div class="col-xs-1" 
-					style="background-color: white;">
-					md<!-- spacer -->
-				</div><!-- end col -->
-				<div class="col-xs-1" 
-					style="background-color: black; color: white;">
-					sm<!-- spacer -->
-				</div><!-- end col -->
-				<div class="col-xs-1" 
-					style="background-color: white;">
-					xs<!-- spacer -->
-				</div><!-- end col -->
-				<div class="col-xs-1" 
-					style="background-color: black;">
-					&nbsp;<!-- spacer -->
-				</div><!-- end col -->
-				<div class="col-xs-1" 
-					style="background-color: white;">
-					&nbsp;<!-- spacer -->
-				</div><!-- end col -->
-			</div><!-- end row -->
+<div class="row">
+    <div class="col-1" 
+         style="background-color: black;">
+        &nbsp;<!-- spacer -->
+    </div><!-- end col -->
+    <div class="col-1" 
+         style="background-color: white;">
+        &nbsp;<!-- spacer -->
+    </div><!-- end col -->
+    <div class="col-1" 
+         style="background-color: black;">
+        &nbsp;<!-- spacer -->
+    </div><!-- end col -->
+    <div class="col-1" 
+         style="background-color: white;">
+        &nbsp;<!-- spacer -->
+    </div><!-- end col -->
+    <div class="col-1" 
+         style="background-color: black;">
+        &nbsp;<!-- spacer -->
+    </div><!-- end col -->
+    <div class="col-1" 
+         style="background-color: white;">
+        &nbsp;<!-- spacer -->
+    </div><!-- end col -->
+    <div class="col-1" 
+         style="background-color: black; color: white;">
+        lg<!-- spacer -->
+    </div><!-- end col -->
+    <div class="col-1" 
+         style="background-color: white;">
+        md<!-- spacer -->
+    </div><!-- end col -->
+    <div class="col-1" 
+         style="background-color: black; color: white;">
+        sm<!-- spacer -->
+    </div><!-- end col -->
+    <div class="col-1" 
+         style="background-color: white;">
+        xs<!-- spacer -->
+    </div><!-- end col -->
+    <div class="col-1" 
+         style="background-color: black;">
+        &nbsp;<!-- spacer -->
+    </div><!-- end col -->
+    <div class="col-1" 
+         style="background-color: white;">
+        &nbsp;<!-- spacer -->
+    </div><!-- end col -->
+</div><!-- end row -->
